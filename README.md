@@ -1,5 +1,7 @@
 # NOCFO Homework Assignment - AI Engineer
 
+## original assignment repo: [NoCFO Assignment](https://github.com/nocfo/nocfo-homework-assignment-ai-engineer/tree/main)
+
 > [!NOTE]
 > We recommend spending **no more than 6 hours** on this task. Focus on the essentials – a functional and clear implementation is more important than perfection.
 
