@@ -23,6 +23,13 @@ python run.py
 
 ---
 
+## Install and run with Pixi
+
+1) Install dependencies: `pixi install`
+2) Run inside the Pixi environment: `pixi run python run.py` (or `pixi shell` then `python run.py`)
+
+---
+
 ## What you need to implement
 
 - The matching logic lives in `src/match.py`. Implement the `find_attachment` and `find_transaction` functions there; do not modify `run.py`.
