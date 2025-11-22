@@ -1,0 +1,17 @@
+[workspace]
+authors = ["udit-asopa <udit.asopa@gmail.com>"]
+channels = ["conda-forge"]
+name = "nocfo-homework-assignment-ai-engineer"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pytest = ">=9.0.1,<10"
+black = ">=25.1.0,<26"
+ruff = ">=0.14.5,<0.15"
+mypy = ">=1.18.2,<2"
+pathlib = ">=1.0.1,<2"
+typer = ">=0.20.0,<0.21"
+pandas = ">=2.3.3,<3"
