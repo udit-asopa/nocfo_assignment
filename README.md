@@ -25,8 +25,19 @@ python run.py
 
 ## Install and run with Pixi
 
-1) Install dependencies: `pixi install`
-2) Run inside the Pixi environment: `pixi run python run.py` (or `pixi shell` then `python run.py`)
+1) Install dependencies: 
+```bash
+pixi install
+```
+2) Run inside the Pixi environment: 
+```bash
+pixi run python run.py
+``` 
+or 
+```bash
+pixi shell
+python run.py
+```
 
 ---
 
