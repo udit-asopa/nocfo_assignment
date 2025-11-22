@@ -1,4 +1,5 @@
-"""Transaction and attachment matching logic.
+"""
+Transaction and attachment matching logic.
 
 This module provides functions to match bank transactions with their corresponding
 attachments (receipts, invoices) based on reference numbers, amounts, dates, and
